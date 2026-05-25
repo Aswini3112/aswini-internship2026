@@ -188,3 +188,6 @@ On Day 2, we take the **same student dataset** and:
 ---
 
 *Codeboosters Tech | Data Engineering + GenAI Internship | Day 1 of 10*
+
+
+## Day 1 Completed
